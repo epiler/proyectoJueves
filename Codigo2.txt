@@ -1,0 +1,3 @@
+Hola grupo 2
+El tema de hoy es como usar git 2
+aa
